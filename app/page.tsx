@@ -8,9 +8,9 @@ export default function HomePage() {
       <main>
         <section className="bg-primary text-primary-foreground">
           <div className="mx-auto max-w-6xl px-4 py-12 md:py-16">
-            <h1 className="max-w-2xl text-balance text-4xl font-bold tracking-tight md:text-5xl">
+            {/* <h1 className="max-w-2xl text-balance text-4xl font-bold tracking-tight md:text-5xl">
               Your next phone, on easy monthly payments.
-            </h1>
+            </h1> */}
             <p className="mt-4 max-w-xl text-pretty text-lg opacity-80">
               Choose from the latest iPhone and Samsung Galaxy models and spread the cost over 6, 12, or 18 months.
             </p>
